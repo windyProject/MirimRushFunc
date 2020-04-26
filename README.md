@@ -1,0 +1,2 @@
+# MirimRushFunc
+CountDown, WinLose, ScoreBoard
